@@ -1,0 +1,6 @@
+{
+  "name": "Earth Sukham - Real Estate",
+  "description": "Discover verified residential properties in Pune & Delhi NCR with expert guidance and investment opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
